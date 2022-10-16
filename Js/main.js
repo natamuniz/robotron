@@ -19,3 +19,5 @@ function manipulaDados(operacao, controle) {
     }
 };
 
+//fazendo commit
+
