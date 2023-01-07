@@ -2,7 +2,7 @@
 Olá seja bem vindo, eu sou o Robotron e vou proteger a terra diante do apocalipse!!!
 
 ## Intuito do projeto ##
-  Bem vindo ao projeto do Robotron, esse projeto tem por intuito aprimorar meus conhecimentos em JavaScript
+  Bem vindo ao projeto do Robotron, esse projeto tem por intuito aprimorar meus conhecimentos em JavaScript e salvar a terra do apocalipse!!
   
 ## Tecnologias ##
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
